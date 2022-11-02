@@ -7,7 +7,6 @@ export function SignIn(){
       <Text color="white" fontSize={24} fontFamily="heading">
         SignIn
       </Text>
-      <StatusBar style="auto" />ß
     </Center>
   )
 }
