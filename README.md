@@ -1,0 +1,3 @@
+# NLW Copa - Bolão da Copa
+
+Projeto ainda em desenvolvimento...
